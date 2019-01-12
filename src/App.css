@@ -1,6 +1,7 @@
 .wrappper {
   text-align: center;
   min-height: 100vh;
+  user-select: none;
 }
 
 .center {
